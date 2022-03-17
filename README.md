@@ -9,3 +9,6 @@ A large reason for doing this is for the experience with git and github.
 
 
 This is a second commit for my project.
+This is a third commit for my project.
+This is a fourth commit for my project.
+This is a fifth commit for my project.
